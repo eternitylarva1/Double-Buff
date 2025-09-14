@@ -1,8 +1,8 @@
-package EliteBeforeFire.helpers;
+package DoubleBuff.helpers;
 
 public class ModHelper {
     public static String makePath(String id) {
-        return "eliteBeforeFire:" + id;
+        return "doubleBuff:" + id;
     }
 
 }

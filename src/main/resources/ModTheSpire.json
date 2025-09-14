@@ -1,9 +1,9 @@
 {
-  "modid": "EliteBeforeFire",
-  "name": "boss前火堆变精英",
+  "modid": "doubleBuff",
+  "name": "双倍buff",
   "author_list": ["Dieyou"],
-  "description": "作者@b站蝴蝶是幼虫，将boss前的火堆替换为精英",
-  "version": "0.1.4",
+  "description": "作者@b站蝴蝶是幼虫，",
+  "version": "0.1.5",
   "sts_version": "12-22-2020",
   "mts_version": "3.23.2",
   "dependencies": ["basemod","stslib"]
